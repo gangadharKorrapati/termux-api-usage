@@ -139,7 +139,7 @@ Scan the specified file(s) and add it to the media content provider.
   -v  verbose mode
 ```
 
-termux-infrared-frequenciesa
+termux-infrared-frequencies
 ===========================
 ```
 Usage: termux-infrared-frequencies
